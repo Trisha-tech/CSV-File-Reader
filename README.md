@@ -5,6 +5,10 @@
 This project named **CSV File Reader** is designed to read the data from the csv file and display the same on the webpage in the form of table. User can also modify the table by adding, editing and deleting rows or columns, remove duplicate entries and create charts from the data present in the table and also download the modified csv file.
 
 
+## Deployed Link
+
+https://csv-file-reader-0s83.onrender.com/
+
 
 ## 💥 Features
 
